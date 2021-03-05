@@ -9,7 +9,8 @@ Simple chat bot with multi languange and DBD.js Library!
 *note: the dbd.js must be version 1.9.4, maybe if it is higher the API will not work as in my experience.
 
 # More
-The API that I use in the code: https://img.shields.io/badge/API-JastinCh%20API-red
+The API that I use in the code: [![API](https://img.shields.io/badge/API-JastinCh%20API-red)](https://jastinch-api.ml)
+Join My Support Server: [![JOIN](https://img.shields.io/badge/Join-Discord%20Server-blue)](https://jastinch-api.ml/discord)
 
 [![Donate](https://img.shields.io/badge/Donate%3F-Click%20Me!-blue)](https://jastinch.xyz/donate.html)
 [![Awesome Badges](https://img.shields.io/badge/Subscribe%20In-Youtube-red)](https://youtube.com/c/JastinCh)
