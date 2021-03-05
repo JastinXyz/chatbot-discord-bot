@@ -1,5 +1,5 @@
 # Chat Bot Discord
-Simple chat bot with multi languange and DBD.js Library!
+Simple chat bot with multi languange and DBD.js Library! **Full made by me, and maybe i will upload a video while making this, but don't know when! stay tuned!**
 
 # Setup
 1. Fill your bot token in `server.js` line 5.
