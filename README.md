@@ -1,12 +1,18 @@
 # Chat Bot Discord
 Simple chat bot with multi languange and DBD.js Library! **Full made by me, and maybe i will upload a video while making this, but don't know when! stay tuned!**
 
+# Full Coding
+https://youtu.be/4F-x3BA4Fvw
+
 # Setup
 1. Fill your bot token in `server.js` line 5.
 2. Fill your bot prefix in `server.js` line 23.
 3. Check `logs`, and if `ready on client` then your bot can be used.
 
 *note: the dbd.js must be version 1.9.4, maybe if it is higher the API will not work as in my experience.
+
+# Video Tutorial
+https://youtu.be/s4YwrqNHAME
 
 # More
 The API that I use in the code: [![API](https://img.shields.io/badge/API-JastinCh%20API-red)](https://jastinch-api.ml)
