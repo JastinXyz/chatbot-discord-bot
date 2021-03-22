@@ -9,7 +9,6 @@ https://youtu.be/4F-x3BA4Fvw
 2. Fill your bot prefix in `server.js` line 23.
 3. Check `logs`, and if `ready on client` then your bot can be used.
 
-*note: the dbd.js must be version 1.9.4, maybe if it is higher the API will not work as in my experience.
 
 # Video Tutorial
 https://youtu.be/s4YwrqNHAME
