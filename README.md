@@ -4,6 +4,15 @@ Simple chat bot with multi languange and DBD.js Library! **Full made by me, and 
 # Full Coding
 https://youtu.be/4F-x3BA4Fvw
 
+# API KEY
+in commands/chatbot.js in the section <your api key>, fill in the JcAPI Key, you can get it on [our server](https://api.jastinch.xyz)
+ ```js
+  module.exports = {
+  
+  name: "talk",
+  code: \`$jsonRequest[https://api.jastinch.xyz/translate?key=<your api key>&to=$getServerVar[lang]&text=$jsonRequest[https://api.jastinch.xyz/chatbot?key=<your api key>&message=$message;response;];res;]\`
+}```
+
 # Setup
 1. Fill your bot token in `server.js` line 5.
 2. Fill your bot prefix in `server.js` line 23.
