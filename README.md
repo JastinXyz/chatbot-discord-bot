@@ -10,7 +10,7 @@ in commands/chatbot.js in the section <your api key>, fill in the JcAPI Key, you
   module.exports = {
   
   name: "talk",
-  code: \`$jsonRequest[https://api.jastinch.xyz/translate?key=<your api key>&to=$getServerVar[lang]&text=$jsonRequest[https://api.jastinch.xyz/chatbot?key=<your api key>&message=$message;response;];res;]\`
+  code: `$jsonRequest[https://api.jastinch.xyz/translate?key=<your api key>&to=$getServerVar[lang]&text=$jsonRequest[https://api.jastinch.xyz/chatbot?key=<your api key>&message=$message;response;];res;]`
 }
  ```
 
