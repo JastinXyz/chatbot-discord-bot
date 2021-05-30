@@ -12,6 +12,7 @@
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "dbd.js": "^1.9.4"
+      "dbd.js": "^1.9.4",
+      "jastinch-api-wrapper": "^0.0.11"
     }
   }
